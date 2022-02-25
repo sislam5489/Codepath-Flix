@@ -14,6 +14,6 @@
 <img src="http://g.recordit.co/uG5cGSRBJR.gif" width=250> <br>
 
 ### Notes
--Installing AlamoFireImage, which was resolved by cleaning build files
--Installing CocoaPods, which was resolved by googling 
--CollectionView layout was only displaying a single column, and I discovered the layout had to be configured programatically 
+- Installing AlamoFireImage, which was resolved by cleaning build files
+- Installing CocoaPods, which was resolved by googling 
+- CollectionView layout was only displaying a single column, and I discovered the layout had to be configured programatically 
